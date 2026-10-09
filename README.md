@@ -1,81 +1,93 @@
 <h1 align="center">🚀 DiegoRLDev</h1>
 
 <p align="center">
-Full Stack Development | Architecture | Self-Hosted Infrastructure
+  Projetos • Estudos • Arquitetura • Desenvolvimento de Software
 </p>
 
 ---
 
 ## 👨‍💻 Sobre
 
-DiegoRLDev é uma organização focada em:
+**DiegoRLDev** é meu espaço para reunir projetos de portfólio, estudos e
+experimentações relacionadas ao desenvolvimento de software.
 
-- Desenvolvimento Full Stack (Angular + .NET)
-- APIs REST escaláveis
+Aqui concentro projetos que representam minha experiência e meus interesses
+técnicos, explorando diferentes tecnologias, arquiteturas e práticas de
+desenvolvimento.
+
+Principais áreas de interesse:
+
+- Desenvolvimento Backend e Full Stack
+- APIs e integração entre sistemas
 - Arquitetura de software
-- Sistemas distribuídos
-- Infraestrutura self-hosted
-- Automação e containers
-
-Projetos desenvolvidos com foco em:
-
-✔️ Código limpo  
-✔️ Arquitetura organizada  
-✔️ Containerização  
-✔️ Boas práticas  
-✔️ Escalabilidade  
+- Microsserviços e sistemas distribuídos
+- Bancos de dados
+- Containers e infraestrutura
+- Observabilidade e monitoramento
+- HomeLab e serviços self-hosted
 
 ---
 
-## 🛠️ Stack Principal
+## 🛠️ Tecnologias
 
 ### Backend
-- .NET / ASP.NET Core
-- C#
-- Golang
+- C# / .NET / ASP.NET Core
+- Go
 - REST APIs
-- JWT
 
 ### Frontend
 - Angular
 - TypeScript
-- SCSS
-- RxJS
+- JavaScript
+- HTML / CSS / SCSS
 
-### Banco de Dados
+### Bancos de Dados
 - SQL Server
 - PostgreSQL
+- MySQL
+- Oracle
 
-### Infraestrutura
+### Arquitetura & Integração
+- Microsserviços
+- Mensageria
+- APIs REST
+- Background Processing
+- Sistemas distribuídos
+
+### Infraestrutura & DevOps
 - Docker
 - Docker Compose
 - Linux
-- TrueNAS Scale
+- GitHub Actions
+- HomeLab
 - Self-Hosted Services
 
 ---
 
-## 📂 Projetos
+## 📂 Projetos em destaque
 
-🔐 Document Management System  
-📊 HomeLab Monitoring Dashboard  
-📂 SFTP Web Client  
-🧾 Financial Dashboard Integration  
-⚙️ Background Processing & Queues  
+### 🧩 MicroservicesLab
+
+Laboratório prático para estudo e implementação de uma arquitetura baseada
+em microsserviços, utilizando diferentes tecnologias e explorando conceitos
+como comunicação entre serviços, mensageria, resiliência, observabilidade
+e processamento assíncrono.
+
+### 📊 HomeLabMonitor
+
+Projeto de monitoramento do meu ambiente de HomeLab, reunindo métricas,
+status de serviços e informações da infraestrutura em um dashboard.
 
 ---
 
-## 🎯 Filosofia
+## 🧪 Outros projetos
 
-Software deve ser:
-
-- Simples
-- Manutenível
-- Observável
-- Escalável
+Este espaço também reúne experimentos e projetos menores utilizados para
+explorar tecnologias, padrões arquiteturais e novas abordagens de
+desenvolvimento.
 
 ---
 
 <p align="center">
-Built with discipline, architecture and long-term vision.
+  <i>Projetos construídos para aprender, experimentar e evoluir.</i>
 </p>
